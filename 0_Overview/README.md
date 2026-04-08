@@ -52,3 +52,12 @@ M3-BioSynergy Core は、以下を統合した
 - `M3-BioSynergy-Archive`
 - `M3-BioSynergy-JP-Archive`
 
+---
+
+## **次のステップ**
+
+- 理論文書の追加
+- 数理モデルの統合
+- シミュレーションエンジン（run_demo.py）の実装
+- 図版の追加
+- ホワイトペーパーの公開
